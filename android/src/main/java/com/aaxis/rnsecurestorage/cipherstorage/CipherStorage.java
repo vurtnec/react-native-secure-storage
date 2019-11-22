@@ -1,6 +1,6 @@
 package com.aaxis.rnsecurestorage.cipherstorage;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.aaxis.rnsecurestorage.exceptions.CryptoFailedException;
 
