@@ -9,12 +9,12 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNSecureStorage
                    DESC
-  s.homepage     = "https://github.com/oyyq99999/react-native-secure-storage"
+  s.homepage     = "https://github.com/vurtnec/react-native-secure-storage"
   s.license      = "MIT"
   # s.license    = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author       = { "Zacharyhou" => "zacharyhou@aaxiscommerce.com" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/oyyq99999/react-native-secure-storage.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/vurtnec/react-native-secure-storage.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m}"
   s.requires_arc = true
