@@ -1,7 +1,7 @@
 {
   "name": "@aaxis/react-native-secure-storage",
   "title": "React Native Secure Storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A secure AsyncStorage partial implementation",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,8 @@
     "ios",
     "android",
     "keychain",
-    "secure"
+    "secure",
+    "aaxis"
   ],
   "author": "zacaryhou",
   "license": "MIT",
