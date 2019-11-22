@@ -1,0 +1,31 @@
+{
+  "name": "@aaxis/react-native-secure-storage",
+  "title": "React Native Secure Storage",
+  "version": "1.0.0",
+  "description": "A secure AsyncStorage partial implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "mobile",
+    "ios",
+    "android",
+    "keychain",
+    "secure"
+  ],
+  "author": "zacaryhou",
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.0.0-alpha.6",
+    "react-native": ">=0.44.1"
+  },
+  "devDependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "^0.44.1"
+  }
+}
