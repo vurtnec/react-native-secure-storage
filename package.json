@@ -1,11 +1,16 @@
 {
   "name": "@aaxis/react-native-secure-storage",
   "title": "React Native Secure Storage",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "A secure AsyncStorage partial implementation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vurtnec/react-native-secure-storage.git",
+    "baseUrl": "https://github.com/vurtnec/react-native-secure-storage"
   },
   "keywords": [
     "react-native",
@@ -17,7 +22,10 @@
     "secure",
     "aaxis"
   ],
-  "author": "zacaryhou",
+  "author": {
+    "name": "Zachary Hou",
+    "email": "zacharyhou@aaxiscommerce.com"
+  },
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
